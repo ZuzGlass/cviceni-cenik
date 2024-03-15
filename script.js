@@ -6,6 +6,7 @@ const selectPlan = (planNumber) => {
     vyber.classList.add("plan--selected")
     }
 
-    const var1 = (selectPlan(1)) 
-    const var2 = (selectPlan(2))
-    const var3 = (selectPlan(3))
+const var1 = selectPlan(1) 
+const var2 = selectPlan(2)
+const var3 = selectPlan(3)
+
